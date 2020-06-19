@@ -1,0 +1,18 @@
+{
+  "users":[
+    {
+      "id" : 1,
+      "fullname": "Muhammed Esad Kaya",
+      "email" : "muhammedesadkaya@gmail.com",
+	  "password" : "12345678",
+	  "phone" : "5373500615"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
